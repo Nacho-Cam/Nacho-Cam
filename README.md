@@ -1,6 +1,5 @@
 <!-- 👋 Welcome Section -->
 <h1 align="center">
- 
   ¡Hola! I’m **Ignacio Camarena**
 </h1>
 <p align="center">
@@ -9,9 +8,8 @@
 
 ---
 
-<!-- 📊 GitHub Stats & Top Languages -->
+<!-- 📊 Top Languages & Passion -->
 <p align="center">
-  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nacho-Cam&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
@@ -22,32 +20,31 @@
 
 ### 🛠️ Skills & Tools
 <p float="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Visual%20Components-44CC11?style=for-the-badge" alt="Visual Components" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Visual%20Components-44CC11?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Components" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Digital%20Twins-00BCD7?style=for-the-badge" alt="Digital Twins" />
-  <img src="https://img.shields.io/badge/CI%2FCD-009688?style=for-the-badge" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Digital%20Twins-00BCD7?style=for-the-badge&logoColor=white" alt="Digital Twins" />
+  <img src="https://img.shields.io/badge/CI%2FCD-009688?style=for-the-badge&logoColor=white" alt="CI/CD" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 - **🚗 Robotics Simulation** – 3D AGV simulation with Visual Components & Python.  
-- **🔄 Digital Twin Standards** – Contributed to EU interoperability guidelines for Industry 4.0 digital twins (UR robots & MaaS).  
-- **📰 News4All** – SaaS news aggregator with ethical scraping, data preprocessing, and GenAI NLP.  
+- **🔄 Digital Twin Standards** – EU interoperability guidelines for Industry 4.0 digital twins (UR robots & MaaS).  
+- **📰 News4All** – SaaS news aggregator with ethical scraping, data preprocessing & GenAI NLP.  
 - **🏆 Sopra Steria Challenge Finalist** – Led a 5-person team to build an AI-driven solution addressing Spain’s news deserts.  
-- **🤖 Robotics for Manufacturing** – Grasshopper-to-Rhino pipeline driving ABB IRB120/1200 robots to draw complex portraits, with custom 3D-printed pen holder.  
-- **🏎️ Underfloor Aerodynamics** – SolidWorks & CFD (ANSYS Fluent) design for UFV Racing’s Formula Student car, improving downforce efficiency by 15%.
+- **🤖 Robotics for Manufacturing** – Grasshopper→Rhino pipeline driving ABB IRB120 robots to draw complex portraits.  
+- **🏎️ Underfloor Aerodynamics** – SolidWorks & CFD (ANSYS Fluent) for UFV Racing’s Formula Student car, +15% downforce efficiency.
 
----
 
-## 🎧 Currently Listening To
-<img align="center" src="https://spotify-readme-juke.vercel.app/api/now-playing" alt="Now Playing on Spotify" />
-
----
 
 > “Code is like humor. When you have to explain it, it’s bad.”  
 > ― Cory House
