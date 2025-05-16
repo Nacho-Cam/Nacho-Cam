@@ -1,6 +1,6 @@
 <!-- 👋 Welcome Section -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50px" alt="Waving hand"/>  
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="60px" alt="Coding gif"/>  
   ¡Hola! I’m **Ignacio Camarena**
 </h1>
 <p align="center">
@@ -10,6 +10,14 @@
 ---
 
 <!-- 📊 GitHub Stats & Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  🚀 Passionate about designing scalable cloud architectures, optimizing industrial processes with digital twins, and innovating with AI-driven solutions.
+</p>
 
 ---
 
@@ -28,11 +36,12 @@
 ---
 
 ## 🚀 Featured Projects
-| Project | Description |
-| ------- | ----------- |
-| **Robotics Simulation with Visual Components** | 3D simulation of an automated guided vehicle using Visual Components & Python. |
-| **Digital Twin Industry Standards** | Research contributions to European interoperability guidelines for Industry 4.0 digital twins. |
-| **Automotive CFD Analysis** | Computational fluid dynamics study and digital twin integration for vehicle design. |
+- **🚗 Robotics Simulation** – 3D AGV simulation with Visual Components & Python.  
+- **🔄 Digital Twin Standards** – Contributed to EU interoperability guidelines for Industry 4.0 digital twins (UR robots & MaaS).  
+- **📰 News4All** – SaaS news aggregator with ethical scraping, data preprocessing, and GenAI NLP.  
+- **🏆 Sopra Steria Challenge Finalist** – Led a 5-person team to build an AI-driven solution addressing Spain’s news deserts.  
+- **🤖 Robotics for Manufacturing** – Grasshopper-to-Rhino pipeline driving ABB IRB120/1200 robots to draw complex portraits, with custom 3D-printed pen holder.  
+- **🏎️ Underfloor Aerodynamics** – SolidWorks & CFD (ANSYS Fluent) design for UFV Racing’s Formula Student car, improving downforce efficiency by 15%.
 
 ---
 
@@ -51,7 +60,8 @@
   <a href="https://linkedin.com/in/ignacio-camarena">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  &nbsp;
+  <a href="mailto:igna.camarena@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
