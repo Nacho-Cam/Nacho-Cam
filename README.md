@@ -1,6 +1,6 @@
 <!-- 👋 Welcome Section -->
 <h1 align="center">
-  ¡Hola! I’m **Ignacio Camarena**
+  ¡Hola! I’m <strong> Ignacio Camarena </strong>
 </h1>
 <p align="center">
   <i>Solution Architect Intern @ AWS | Smart Industrial Engineering Student @ Universidad Francisco de Vitoria | From Spain</i>
@@ -23,15 +23,15 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/Visual%20Components-44CC11?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Components" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-232F3E?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Computing" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Digital%20Twins-00BCD7?style=for-the-badge&logoColor=white" alt="Digital Twins" />
-  <img src="https://img.shields.io/badge/CI%2FCD-009688?style=for-the-badge&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Digital%20Twins-00BCD7?style=for-the-badge&logo=digitalocean&logoColor=white" alt="Digital Twins" />
+  <img src="https://img.shields.io/badge/CI%2FCD-009688?style=for-the-badge&logo=circleci&logoColor=white" alt="CI/CD" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 - **🤖 Robotics for Manufacturing** – Grasshopper→Rhino pipeline driving ABB IRB120 robots to draw complex portraits.  
 - **🏎️ Underfloor Aerodynamics** – SolidWorks & CFD (ANSYS Fluent) for UFV Racing’s Formula Student car, +15% downforce efficiency.
 
-
+---
 
 > “Code is like humor. When you have to explain it, it’s bad.”  
 > ― Cory House
