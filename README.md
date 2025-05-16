@@ -1,6 +1,6 @@
 <!-- 👋 Welcome Section -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="60px" alt="Coding gif"/>  
+ 
   ¡Hola! I’m **Ignacio Camarena**
 </h1>
 <p align="center">
