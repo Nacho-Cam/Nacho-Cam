@@ -11,7 +11,6 @@
 
 <!-- 📊 GitHub Stats & Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nacho-Cam&show_icons=true&theme=radical" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nacho-Cam&layout=compact&theme=radical" alt="Top Languages" />
 </p>
